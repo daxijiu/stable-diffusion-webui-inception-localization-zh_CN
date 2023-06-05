@@ -1,10 +1,10 @@
-##相对原版，做了如下改进：
+## 相对原版，做了如下改进：
 webui主体汉化到1.3.1版本  
 ControlNet v1.1.217汉化  
 Segment Anything汉化  
 一些零碎自用插件汉化  
 
-#已知部分问题
+# 已知部分问题
 webui本体中有部分hardcode无法汉化，需要等webui自己修复，目前已知有：
     设置-放大-Select which Real-ESRGAN models to show in the web UI.  
     设置-面部修复-Face restoration model  
@@ -17,7 +17,7 @@ ControlNet插件中有部分内容和现有本地化机制不兼容，需要等w
     部分预处理器的详细设置  
     
 
-##以下是原版readme
+## 以下是原版readme
 # stable-diffusion-webui-localization-zh_CN
 Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
