@@ -2572,7 +2572,7 @@
 
 
     "Segment Anything部分": "Segment Anything部分",
-    "Segment Anything": "分割万物（Segment Anything）",
+    "Segment Anything": "分割万物(SAM)",
     "Image for Segment Anything": "上传要分割的图",
     "Segment Anything Output": "蒙版分割结果",
     "Segment Anything status": "运行状态",
