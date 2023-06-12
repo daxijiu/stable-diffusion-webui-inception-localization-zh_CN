@@ -1,5 +1,5 @@
 ## 相对原版，做了如下改进：
-webui主体汉化到1.3.2版本  
+webui主体汉化到1.4.0 dev  
 ControlNet v1.1.217汉化  
 Segment Anything汉化  
 一些零碎自用插件汉化  
