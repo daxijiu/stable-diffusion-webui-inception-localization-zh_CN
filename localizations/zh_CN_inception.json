@@ -2650,6 +2650,7 @@
     "Reference": "参考",
     "Preview as Input": "将预览图作为输入",
     "inpaint_only": "仅重绘蒙版（inpaint_only）",
+    "inpaint_only+lama": "仅重绘蒙版-更干净（inpaint_only+lama）",
     "reference_adain": "图像参考（无需模型，AdaIN风格转移）",
     "reference_adain+attn": "图像参考（无需模型，AdaIN风格转移+注意力链接）",
     "reference_only": "图像参考（无需模型，注意力链接）",
