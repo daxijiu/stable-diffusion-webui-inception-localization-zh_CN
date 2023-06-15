@@ -2650,7 +2650,6 @@
     "Reference": "参考",
     "Preview as Input": "将预览图作为输入",
     "inpaint_only": "仅重绘蒙版（inpaint_only）",
-    "inpaint_only+lama": "仅重绘蒙版-更干净（inpaint_only+lama）",
     "reference_adain": "图像参考（无需模型，AdaIN风格转移）",
     "reference_adain+attn": "图像参考（无需模型，AdaIN风格转移+注意力链接）",
     "reference_only": "图像参考（无需模型，注意力链接）",
@@ -2677,8 +2676,29 @@
     "controlnet input": "ControlNet输入",
     "scale ratio": "缩放比例",
 
-
-
+    "PBRemTools" : "精确去背景",
+    "Single" : "单次处理",
+    "Mask Setting" : "蒙版设置",
+    "Batch Images": "批量处理的图片",
+    "outputs": "输出结果",
+    "Batch from Dir" : "从文件夹批量处理",
+    "Output Mask directory": "蒙版输出目录",
+    "enabled": "启用",
+    "segmentation prompt": "需要抠图的提示词",
+    "predicted_iou_threshold" : "预测交并比阈值",
+    "stability_score_threshold" : "稳定性得分阈值",
+    "clip_threshold" : "CLIP阈值",
+    "Post Processing" : "后处理",
+    "tile division BG Removers" : "分块化背景去除",
+    "horizontal split num" : "水平分块数",
+    "vertical split num" : "垂直分块数",
+    "alpha threshold" : "透明度阈值",
+    "mask content ratio" : "前后景判断阈值",
+    "cluster num" : "颜色簇数",
+    "cascadePSP" : "CascadePSP",
+    "fast" : "快速模式",
+    "Memory usage": "允许的内存使用量",
+    "Submit": "开始抠图",
 
 
 
