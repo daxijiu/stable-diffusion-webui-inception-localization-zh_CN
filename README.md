@@ -2,6 +2,7 @@
 webui主体汉化到1.4.0 dev  
 ControlNet v1.1.217汉化  
 Segment Anything汉化  
+喵手助理汉化
 一些零碎自用插件汉化  
 
 # 已知部分问题
@@ -10,7 +11,7 @@ webui本体中有部分hardcode无法汉化，需要等webui自己修复，目�
     设置-面部修复-Face restoration model   
     附加功能-Upscaler 1  
     附加功能-Upscaler 1  
-webui本体中下来选项框本身的框内的文本   
+webui本体中下拉选项框本身的框内的文本   
 部分实时生成拼接的字符串  
 ControlNet插件中有部分内容和现有本地化机制不兼容，需要等webui优化  
     ControlNet中的悬停tips    
