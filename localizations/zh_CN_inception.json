@@ -2397,7 +2397,7 @@
     "Extension State": "扩展状态",
     "(choose Unet model: Automatic = use one with same filename as checkpoint; None = use Unet from checkpoint)": "（自动=使用与checkpoint相同文件名的模型；无=使用checkpoint中的Unet模型）",
     "(selected items appear first)": "(选择的选项将优先显示)",
-    "(setting entries that also appear in txt2img/img2img interfaces)": "（设置条目也出现在文生土/图生图界面中）",
+    "(setting entries that also appear in txt2img/img2img interfaces)": "（设置条目也出现在文生图/图生图界面中）",
     "(when reading generation parameters from text into UI)": "(当从外部复制生成参数的时候)",
     "(when reading generation parameters from text into UI))": "(当从外部复制生成参数的时候)",
     "Ignore: keep prompt and styles dropdown as it is.": "忽略：不处理样式",
@@ -2524,6 +2524,22 @@
     "Set to 0 to disable": "0表示不启用",
     "Random prompt": "随机提示词",
     "Notes": "注释",
+    "Lora/Networks: use old method that takes longer when you have multiple Loras active and produces same results as kohya-ss/sd-webui-additional-networks extension": "Lora/附加网络：使用老的方法加载lora（当同时使用多个lora时将花费更多时间），这个选项可以用来复刻 kohya-ss/sd-webui-additional-networks插件的结果",
+    "Always show all networks on the Lora page": "在Lora页面总是显示所有Lora",
+    "(otherwise, those detected as for incompatible version of Stable Diffusion will be hidden)": "(否则会隐藏不兼容的Lora)",
+    "Hide networks of unknown versions for model versions": "为以下版本模型自动隐藏版本未知的Lora",
+    "Automaticlly revert VAE to 32-bit floats": "自动回退32bit VAE",
+    "(triggers when a tensor with NaNs is produced in VAE; disabling the option in this case will result in a black square image)": "(当VAE阶段出现数值溢出(NaNs)时启用32bit VAE, 可以有效防止出黑图)",
+    "Add network to prompt": "将LORA/LyCO添加到提示词",
+    "Try to add known trigger words for LORA/LyCO models": "尝试为LORA/LyCO添加已知的触发词",
+    "(Requires the": "(需要安装",
+    "extension to be installed, but will work with it disabled.)": "扩展，但是不需要启用)",
+    "Chant filename": "预置词文件",
+    "(Chants are longer prompt presets)": "(预置词是长提示词的缩略预设)",
+    "ControlNet inpainting Gaussian blur sigma": "ControlNet重绘中，高斯模糊的方差(sigma)",
+    
+
+
 
     "Agent Scheduler": "任务队列助手",
     "Enqueue": "加入队列",
