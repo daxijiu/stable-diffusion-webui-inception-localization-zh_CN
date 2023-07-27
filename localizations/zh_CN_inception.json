@@ -2539,7 +2539,7 @@
     "(Chants are longer prompt presets)": "(预置词是长提示词的缩略预设)",
     "ControlNet inpainting Gaussian blur sigma": "ControlNet重绘中，高斯模糊的方差(sigma)",
     "Do not apply ControlNet during highres fix": "在高清修复阶段不启用ControlNet",  
-
+    "Generation": "图像生成",  
 
 
     "Agent Scheduler": "任务队列助手",
