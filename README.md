@@ -1,6 +1,6 @@
 ## 相对原版，做了如下改进：
 webui主体汉化到1.5.1 dev  
-ControlNet v1.1.217汉化  
+ControlNet v1.1.233汉化  
 Segment Anything汉化  
 喵手助理汉化
 一些零碎自用插件汉化  
