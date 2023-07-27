@@ -2533,11 +2533,12 @@
     "Add network to prompt": "将LORA/LyCO添加到提示词",
     "Try to add known trigger words for LORA/LyCO models": "尝试为LORA/LyCO添加已知的触发词",
     "(Requires the": "(需要安装",
+    "(Will use & prefer the native activation keywords settable in the extra networks UI. Other functionality requires the": "(优先使用原生的附加网络UI中设置的触发词，其他功能需要安装",    
     "extension to be installed, but will work with it disabled.)": "扩展，但是不需要启用)",
     "Chant filename": "预置词文件",
     "(Chants are longer prompt presets)": "(预置词是长提示词的缩略预设)",
     "ControlNet inpainting Gaussian blur sigma": "ControlNet重绘中，高斯模糊的方差(sigma)",
-    
+    "Do not apply ControlNet during highres fix": "在高清修复阶段不启用ControlNet",  
 
 
 
