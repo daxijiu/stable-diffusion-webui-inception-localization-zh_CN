@@ -1,5 +1,6 @@
 ## 相对原版，做了如下改进：
-webui主体汉化到1.5.1 dev  
+webui主体汉化到1.5.1正式版
+dev分支支持如下未合并内容：dev/multiple_loaded_models/hires_checkpoint/extra-networks-always-visible
 ControlNet v1.1.233汉化  
 Segment Anything汉化  
 喵手助理汉化
