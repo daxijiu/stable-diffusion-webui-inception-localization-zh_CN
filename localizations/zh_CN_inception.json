@@ -2544,7 +2544,7 @@
     "Do not apply ControlNet during highres fix": "在高清修复阶段不启用ControlNet",  
     "Generation": "图像生成",  
     "Maximum number of checkpoints loaded at the same time": "最大同时加载的模型(ckpt)数",  
-    "Only keep one model on device": "指保留一个在生成设备中（通常来说指的是GPU）",  
+    "Only keep one model on device": "只保留一个在生成设备中（通常来说指的是GPU）",  
     "(will keep models other than the currently used one in RAM rather than VRAM)": "(如果生成设备是显卡，就是在显存中只保留一个，其他缓存在内存中，否则会在显存中保留多个)",     
     "(obsolete; set to 0 and use the two settings above instead)": "过时的设置，请设置为0然后使用上面两个设置",  
     
