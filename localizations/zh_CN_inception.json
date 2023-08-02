@@ -2548,6 +2548,9 @@
     "(will keep models other than the currently used one in RAM rather than VRAM)": "(如果生成设备是显卡，就是在显存中只保留一个，其他缓存在内存中，否则会在显存中保留多个)",     
     "(obsolete; set to 0 and use the two settings above instead)": "过时的设置，请设置为0然后使用上面两个设置",  
     "Prevent Stability-AI's ldm/sgm modules from printing noise to console.": "防止Stability-AI的ldm/sgm模块输出太多的控制台信息",   
+    "SDXL Styles Preset": "SDXL风格预设",
+    "sd-webui-sdxl-styles-preset": "SDXL风格预设插件",
+
     
     "Agent Scheduler": "任务队列助手",
     "Enqueue": "加入队列",
