@@ -11,7 +11,7 @@ Segment Anything汉化
     ~~设置-放大-Select which Real-ESRGAN models to show in the web UI.~~    
     ~~设置-面部修复-Face restoration model~~   
     ~~附加功能-Upscaler 1~~  
-    ~~附加功能-Upscaler 1~~
+    ~~附加功能-Upscaler 1~~  
     （上面删除线的几个地方本人已经提交PR并在webui dev分支修正了，在下一个正式版中不用本汉化插件也可以上述内容就能被正确本地化了）  
 webui本体中下拉选项框本身的框内的文本   
 部分实时生成拼接的字符串  
