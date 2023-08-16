@@ -1,7 +1,7 @@
 ## 相对原版，做了如下改进：
 webui主体汉化到1.5.1正式版  
-dev分支支持到截止8月14日的大量改动（refiner，新的style页面，新的附加网络页面，新采样器参数等）  
-ControlNet v1.1.233汉化  
+dev分支支持到1.6.0的大量改动（refiner，新的style页面，新的附加网络页面，新采样器参数等）  
+ControlNet v1.1.238汉化  
 Segment Anything汉化  
 喵手助理汉化
 一些零碎自用插件汉化  
