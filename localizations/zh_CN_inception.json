@@ -2650,6 +2650,17 @@
     "Options in main UI - img2img": "图生图页面的额外选项",
     "(setting entries that also appear in img2img interfaces)": "(在图生图页面额外显示的设置项)",
     "(noise multiplier; higher = more unpredictable results)": "(噪声倍率;越高意味着更不确定的结果)",
+    "processing |": "处理中 |",
+    "Refresh Civitai Helper's additional buttons": "刷新C站助手按钮",
+    "Return image with chosen live preview method on interrupt": "打断出图时使用预览方式返回图片",
+    "(makes interrupts faster)": "(可以使打断过程更快)",
+    "Move top row (prompt, generate button) to settings column": "将提示词框、生成按钮移动到左侧",
+    "Gallery height": "预览窗口高度",
+    "(an be any valid CSS value)": "(可以使用CSS值，如720px、50%、auto等)",
+    "Allow http:// and https:// URLs for input images in API": "允许在 API 中使用 http:// 和 https:// 地址作为输入图像",
+    "Forbid URLs to local resources": "禁止使用本地资源的 URL",
+    "User agent for requests": "自定义用户代理(UA)字符串",
+
        
 
     "Sort wildcard file contents alphabetically": "把wildcard文件按字母顺序排列",
