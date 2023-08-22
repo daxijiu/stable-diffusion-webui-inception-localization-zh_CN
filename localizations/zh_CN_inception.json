@@ -2660,6 +2660,12 @@
     "Allow http:// and https:// URLs for input images in API": "允许在 API 中使用 http:// 和 https:// 地址作为输入图像",
     "Forbid URLs to local resources": "禁止使用本地资源的 URL",
     "User agent for requests": "自定义用户代理(UA)字符串",
+    "Allow Full live preview method with lowvram/medvram": "允许在中低显存模式时使用完全(FULL)预览模式",
+    "(If not, Approx NN will be used instead; Full live preview method is very detrimental to speed if lowvram/medvram optimizations are enabled)": "(如果没有启用，则使用Approx NN模式；在中低显存模式时使用完全(FULL)预览模式会大大降低速度)",
+    "(do not recalculate conds from prompts if prompts have not changed since previous calculation)": "(如果提示词没有变化的话，就不在重复计算提示词相关内容)",
+    "Batch cond/uncond": "在同一个批次进行正反提示词的处理",
+    "(do both conditional and unconditional denoising in one batch; uses a bit more VRAM during sampling, but improves speed; previously this was controlled by --always-batch-cond-uncond comandline argument)": "(这会略微增加显存占用但是提升速度; 之前这个选项是通过启动参数 --always-batch-cond-uncond 来控制的)",
+    
 
        
 
