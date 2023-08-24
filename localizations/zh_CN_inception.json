@@ -2665,7 +2665,10 @@
     "(do not recalculate conds from prompts if prompts have not changed since previous calculation)": "(如果提示词没有变化的话，就不在重复计算提示词相关内容)",
     "Batch cond/uncond": "在同一个批次进行正反提示词的处理",
     "(do both conditional and unconditional denoising in one batch; uses a bit more VRAM during sampling, but improves speed; previously this was controlled by --always-batch-cond-uncond comandline argument)": "(这会略微增加显存占用但是提升速度; 之前这个选项是通过启动参数 --always-batch-cond-uncond 来控制的)",
-    
+    "Paste ControlNet parameters in infotext": "将ControlNet参数添加到生成信息中",
+    "Use old prompt editing timelines.": "使用旧的提示词编辑时间线",
+    "(For [red:green:N]; old: If N < 1, it's a fraction of steps (and hires fix uses range from 0 to 1), if N >= 1, it's an absolute number of steps; new: If N has a decimal point in it, it's a fraction of steps (and hires fix uses range from 1 to 2), othewrwise it's an absolute number of steps)": "(对于[red:green:N]：旧版是，如果N<1则表示总步数的百分比，高清修复也使用这个百分比，如果N>=1则表示步数的绝对值；新版是，如果N有小数点则表示总步数的百分比，高清修复范围是1~2，否则表示绝对步数)",
+        
 
        
 
