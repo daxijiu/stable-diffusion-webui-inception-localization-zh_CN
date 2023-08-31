@@ -2668,9 +2668,13 @@
     "Paste ControlNet parameters in infotext": "将ControlNet参数添加到生成信息中",
     "Use old prompt editing timelines.": "使用旧的提示词编辑时间线",
     "(For [red:green:N]; old: If N < 1, it's a fraction of steps (and hires fix uses range from 0 to 1), if N >= 1, it's an absolute number of steps; new: If N has a decimal point in it, it's a fraction of steps (and hires fix uses range from 1 to 2), othewrwise it's an absolute number of steps)": "(对于[red:green:N]：旧版是，如果N<1则表示总步数的百分比，高清修复也使用这个百分比，如果N>=1则表示步数的绝对值；新版是，如果N有小数点则表示总步数的百分比，高清修复范围是1~2，否则表示绝对步数)",
-        
-
-       
+    "Hires fix: which pass to enable refiner for": "高清修复：在哪些过程启用精细化",
+    "first pass": "高清修复前",
+    "second pass": "高清修复部分",
+    "both passes": "高清修复前后都",
+    "SGM noise multiplier": "SGM噪声倍率",
+    "(Match initial noise to official SDXL implementation - only useful for reproducing images)": "(用于匹配SDXL官方的初始噪声)",
+ 
 
     "Sort wildcard file contents alphabetically": "把wildcard文件按字母顺序排列",
     "(If your wildcard files have a specific custom order, disable this to keep it)": "(如果你的文件有特定的顺序可以关闭此选项)",
@@ -2957,6 +2961,22 @@
     "Zoom in/out": "缩放",
     "controlnet input": "ControlNet输入",
     "scale ratio": "缩放比例",
+    "Preset name": "预设名称",
+    "NormalMap": "法线",
+    "Scribble/Sketch": "草图",
+    "Segmentation": "语义分割",
+    "InstructP2P": "指令图生图",
+    "Recolor": "重上色",
+    "ip-adapter_clip_sd15": "ip-adapter风格转移sd15",
+    "ip-adapter_clip_sdxl": "ip-adapter风格转移sdxl",
+    "recolor_intensity": "重上色-强度",
+    "recolor_luminance": "重上色-明度",
+    "revision_clipvision": "revision_风格转移(clipvision)",
+    "revision_ignore_prompt": "revision_无提示词模式(ignore_prompt)",
+
+
+
+
 
     "PBRemTools" : "精确去背景",
     "Single" : "单次处理",
